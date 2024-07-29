@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nayuta113.github.io</id>
     <title>草莓可以吃几颗</title>
-    <updated>2024-07-29T04:53:11.921Z</updated>
+    <updated>2024-07-29T05:20:05.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nayuta113.github.io"/>
     <link rel="self" href="https://nayuta113.github.io/atom.xml"/>
@@ -342,7 +342,7 @@ def refined_determine_color(days):
         <updated>2023-07-26T08:32:45.000Z</updated>
         <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
 <h2 id="最新更新">最新更新👏</h2>
-<p>🚀版本<strong>V2.0</strong> | <strong>更新“ヨルシカ多久没有发新歌”板块，无损资源不全更新！</strong> | 更新时间<strong>2024.07.29</strong>。</p>
+<p>🚀版本<strong>V2.0</strong> | <strong>更新“ヨルシカ多久没有发新歌”板块，无损资源补全更新</strong> | 更新时间<strong>2024.07.29</strong>。</p>
 <h2 id="历史记录">历史记录</h2>
 <p>🚀版本<strong>V1.9</strong> | <strong>资源重载</strong> | 更新时间<strong>2024.07.25</strong>。<br>
 ——|👇<br>
@@ -418,6 +418,7 @@ def refined_determine_color(days):
 |———<a href="https://strawberry.cowtransfer.com/s/94d36fef354849">ルバート</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/75a0c518ea0646">忘れてください</a><br>
+|<br>
 |———<a href="https://strawberry.cowtransfer.com/s/b13b1a6765f344">2021前世Live</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/00467f4f620d44">2022月光再演Live</a><br>
