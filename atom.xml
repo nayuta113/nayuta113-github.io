@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nayuta113.github.io</id>
     <title>草莓可以吃几颗</title>
-    <updated>2024-09-05T00:52:16.905Z</updated>
+    <updated>2024-09-11T03:42:31.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nayuta113.github.io"/>
     <link rel="self" href="https://nayuta113.github.io/atom.xml"/>
@@ -52,18 +52,15 @@
         </link>
         <updated>2023-08-11T01:39:36.000Z</updated>
         <content type="html"><![CDATA[<h1 id="太长不看版">👀 太长不看版 👀</h1>
-<p>ヨルシカ已经 <code>16天</code> 没有发布新歌了， n-buna起来干活！</p>
+<p>ヨルシカ已经 <code>14天</code> 没有发布新歌了， n-buna起来干活！</p>
 <pre><code>归类总结
----专辑+歌曲发布间隔---
-蓝色：10 个
-绿色：3 个
-紫色：7 个
-橙色：3 个
-红色：2 个
 ----------------------
----专辑发布间隔---
-紫色：3 个
-红色：3 个
+ヨルシカ歌曲平均发布间隔时间: 90.28 天
+
+最短发布间隔: 17 天
+最长发布间隔: 315 天
+
+ヨルシカ歌曲最常见的发布月份: 6
 ----------------------
 </code></pre>
 <p>本页面属于上班摸鱼产品，统计了 犹如是卡 每次发布新作品间隔（摸了 = ✋了）到底有多长时间。<br>
@@ -105,9 +102,12 @@ def refined_determine_color(days):
     .red { color: red; }
 </style>
 <h2 id="ヨルシカ所有歌曲间隔时间"><strong>⌈ ヨルシカ所有歌曲间隔时间 ⌋</strong></h2>
-<p><strong>忘れてください to 距今:</strong><br>
+<p><strong>憂、燦々 to 距今:</strong><br>
 <span class="blue">|##------------------------------------------------|</span><br>
-间隔天数: 16</p>
+间隔天数: 14</p>
+<p><strong>憂、燦々 to 忘れてください:</strong><br>
+<span class="green">|#######-------------------------------------------|</span><br>
+间隔天数: 46</p>
 <p><strong>忘れてください to ルバート:</strong><br>
 <span class="green">|#######-------------------------------------------|</span><br>
 间隔天数: 45 (2024.7.13 - 2024.5.29)</p>
@@ -343,14 +343,16 @@ def refined_determine_color(days):
         <updated>2023-07-26T08:32:45.000Z</updated>
         <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
 <h2 id="最新更新">最新更新👏</h2>
-<p>🚀版本<strong>V2.2</strong> | <strong>“幻灯”专辑伴奏全部制作完毕</strong> |<br>
-更新时间<strong>2024.09.04</strong>。</p>
+<p>🚀版本<strong>V2.3</strong> | <strong>全部伴奏+无损资源更新到最新</strong> |<br>
+更新时间<strong>2024.09.11</strong>。</p>
 <h2 id="历史记录">历史记录</h2>
-<p>🚀版本<strong>V2.1</strong> | <strong>更新“ヨルシカLive伴奏”板块，伴奏全部制作完毕</strong> |<br>
-更新时间<strong>2024.08.06</strong>。<br>
+<p>🚀版本<strong>V2.2</strong> | <strong>“幻灯”专辑伴奏全部制作完毕</strong> |<br>
+更新时间<strong>2024.09.04</strong>。<br>
 ——|👇<br>
 ——|👇<br>
-🚀版本<strong>V2.0</strong> | <strong>更新“ヨルシカ多久没有发新歌”板块，无损资源补全更新</strong> |<br>
+🚀版本<strong>V2.1</strong> | <strong>更新“ヨルシカLive伴奏”板块，伴奏全部制作完毕</strong> |<br>
+更新时间<strong>2024.08.06</strong>。</p>
+<p>🚀版本<strong>V2.0</strong> | <strong>更新“ヨルシカ多久没有发新歌”板块，无损资源补全更新</strong> |<br>
 更新时间<strong>2024.07.29</strong>。<br>
 ——|👇<br>
 ——|👇<br>
@@ -508,13 +510,13 @@ def refined_determine_color(days):
 |———<a href="https://strawberry.cowtransfer.com/s/d7f26096834c4e">だから僕は音楽を辞めた</a></p>
 <p>04 - <a href="https://strawberry.cowtransfer.com/s/b399398ca80143">エルマ</a>  口令：91xriq<br>
 |<br>
-|———<a href="">憂一乗（未制作）</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/d41eecb36b554c">憂一乗</a><br>
 |<br>
-|———<a href="">夕凪、某、花惑い（未制作）</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/5ab86cabe21244">夕凪、某、花惑い</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/aca1a6e19b4848">雨とカプチーノ</a><br>
 |<br>
-|———<a href="">神様のダンス（未制作）</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/c68653c5cc9e43">神様のダンス</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/e0d1c4c4a2e041">雨晴るる</a><br>
 |<br>
@@ -535,7 +537,7 @@ def refined_determine_color(days):
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/58d4b263aa8f40">爆弾魔 (Re-Recording)</a><br>
 |<br>
-|———<a href="">レプリカント（未制作）</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/7a2f0226313b4b">レプリカント</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/f841ae72761445">花人局</a><br>
 |<br>
@@ -543,7 +545,7 @@ def refined_determine_color(days):
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/b6a2e151dd784d">思想犯</a><br>
 |<br>
-|———<a href="">逃亡（未制作）</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/8e9e15bd1e1a4f">逃亡</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/0258259819ac40">夜行</a><br>
 |<br>
@@ -596,13 +598,15 @@ def refined_determine_color(days):
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/fab2678bcefe4d">晴る</a><br>
 |<br>
-|———<a href="https://strawberry.cowtransfer.com/s/88bc88b067944e">忘れてください</a><br>
+|———<a href="https://strawberry.cowtransfer.com/s/dae4569196324e">忘れてください</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/924c66476e0b45">斜陽</a><br>
 |<br>
 |———<a href="https://strawberry.cowtransfer.com/s/ce9f94d330af42">ルバート</a><br>
 |<br>
-|———<a href="https://strawberry.cowtransfer.com/s/37c38607c6ca41">テレパス</a></p>
+|———<a href="https://strawberry.cowtransfer.com/s/37c38607c6ca41">テレパス</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/5f4cf996b7f94e">テレパス</a></p>
 <h1 id="09-重置伴奏-口令cjktvn"><strong>09 -  <a href="https://strawberry.cowtransfer.com/s/e34f0ad86c8649">重置伴奏</a>  口令：cjktvn</strong></h1>
 <p><strong>👇👇👇✍️除前世和月光再演外，重置伴奏内还有其他资源（如图片），自取…👻</strong></p>
 <h1 id="ヨルシカ-前世"><em><strong>ヨルシカ 前世</strong></em></h1>
